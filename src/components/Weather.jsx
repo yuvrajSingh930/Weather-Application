@@ -104,7 +104,6 @@ function Weather() {
       </div>
 
       {/* Footer Section */}
-      <div id="footer">Made with &#9829; by &lt;/Rohit &gt; </div>
     </div>
   );
 }
