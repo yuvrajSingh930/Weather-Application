@@ -23,9 +23,5 @@ The REACT_APP_WEATHER_API_KEY environment variable should be set to your Weather
 - **images:** Images used in the app.
 - **style.css:** Global styles for the app.
 - **Weather.jsx:** Main Weather component.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 <hr>
 
